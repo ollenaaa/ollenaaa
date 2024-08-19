@@ -2,10 +2,19 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="left">About Me:</h3>
 
 ###
 
+<ul>
+  <li>👩‍🏫 I'm a Bachelor of Applied Mathematics </li>
+  <li>🐍 Python enthusiast </li>
+  <li>🔎 Actively seeking job opportunities </li>
+</ul>
+
+###
+
+<h3 align="left">Contacts:</h3>
 
 ###
 
