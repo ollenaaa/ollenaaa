@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="display: flex;">
   
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/olena-sazonets-677793295/)
   
