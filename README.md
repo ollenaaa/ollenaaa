@@ -10,6 +10,7 @@
   <li>👩‍🏫 I'm a Bachelor of Applied Mathematics </li>
   <li>🐍 Python enthusiast </li>
   <li>🔎 Actively seeking job opportunities </li>
+  <li></li>
 </ul>
 
 ###
