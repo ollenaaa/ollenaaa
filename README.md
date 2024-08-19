@@ -20,7 +20,9 @@
 
 <div align="left">
 
-  <a href="https://linkedin.com/in/olena-sazonets-677793295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olena-sazonets" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/olena-sazonets-677793295/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" style="height: 35px;">
+  </a>
   
   [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:osazonets@gmail.com)
 </div>
